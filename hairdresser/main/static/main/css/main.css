@@ -1,0 +1,123 @@
+body {
+    background: #f0e6c8;
+}
+
+aside {
+    background: #181818;
+    width: 100%;
+    padding: 2%;
+    height: 14vh;
+    color: #fff;
+    border-bottom: 5px solid #ed5959
+}
+
+aside img {
+    width: 100px;
+    position: relative;
+    top: -15.5px;
+    left: -15.5px;
+    float: left;
+}
+
+aside .logo {
+    font-size: 40px;
+    margin-left: 15px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+
+aside ul {
+    list-style: none;
+    margin-left: 550px;
+    position: relative;
+    top: -28px;
+}
+
+aside ul li {
+    color: #fff;
+    display: block;
+    float: left;
+    margin-left: 100px;
+    transition: transform .6s ease;
+}
+
+aside ul li:hover, aside ul a:hover{
+    color: #ed5959;
+    text-decoration: none;
+    transform: scale(1.29);
+}
+
+main .features{
+    margin-top: 100px;
+    text-align: center;
+    weight: 75%;
+}
+
+main .features h1{font-size: 50px;}
+
+main .features p{max-width: 500px; margin: 20px auto}
+
+main .frog{
+    margin-top: 20px;
+}
+
+
+footer{
+    top: 20px;
+    width: 100%;
+    height: auto;
+    background-color: #000;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+    border-top: 5px solid #ed5959;
+}
+
+footer {
+    position: relative;
+    padding-bottom: 58px;
+    box-sizing: border-box;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 58px;
+    color: #fff;
+}
+
+form{
+    margin-left: 32%;
+    width: 500;
+    margin-top: 50px;
+    margin-right: 32%;
+    margin-bottom: 180px;
+}
+
+.tom{
+    margin-top: 300px;
+    text-align: center;
+    weight: 75%;
+    margin-bottom: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

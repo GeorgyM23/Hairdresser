@@ -1,0 +1,12 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}Записаться{% endblock %}
+
+{% block content %}
+    <div class="tom">
+        <p>
+            Вы успешно были записанны!
+        </p>
+        <a href="{% url 'home' %}"><button class="btn btn-warning">На главную</button></a>
+    </div>
+{% endblock %}
